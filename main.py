@@ -103,6 +103,4 @@ async def not_found(message:types.Message):
 
 executor.start_polling(dp)
 
-
-# Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force
 # .\venv\Scripts\activate
